@@ -1,3 +1,5 @@
 # README
 
-This is the sandbox that we will play in. :smiley:
+This is the sandbox that we'll play in. :smiley:
+
+I'll play around with git stuff here, so you won't see anything extraordinary. Prepare to be underwhelmed.
